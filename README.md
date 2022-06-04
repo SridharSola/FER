@@ -7,10 +7,12 @@ Contrastive Learning).
 
 # Datasets
 
-![RAFDB](https://user-images.githubusercontent.com/64302305/172004582-54011bb9-b6f9-4bd3-a8cb-50ab98079a4d.jpg)\
-
-![FERPlus](https://user-images.githubusercontent.com/64302305/172004587-f89c0de5-0b63-4437-a867-abba32d7eb85.jpg)
-
+|![RAFDB](https://user-images.githubusercontent.com/64302305/172004582-54011bb9-b6f9-4bd3-a8cb-50ab98079a4d.jpg)|
+|:--:| 
+| *RAFDB Sample* |
+|![FERPlus](https://user-images.githubusercontent.com/64302305/172004587-f89c0de5-0b63-4437-a867-abba32d7eb85.jpg)|
+|:--:| 
+| *FERPlus Sample* |
 # Experiments
 
 Experiment 1 – Training ResNet18 on non-masked images.\
