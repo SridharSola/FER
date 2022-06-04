@@ -17,7 +17,7 @@ Contrastive Learning).
 Experiment 1 – Training ResNet18 on non-masked images.\
 Experiment 2 – Training ResNet18 on masked images.\
 Experiment 3 – Training ResNet18 on masked images when pre-trained on non-masked images.\
-Experiment 4 – Training ResNet18 on Mixed (masked and non-masked) dataset.\
+Experiment 4 – Training ResNet18 on Mixed (masked and non-masked) dataset.
 
 ## Results
 
