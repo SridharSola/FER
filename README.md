@@ -11,7 +11,6 @@ Contrastive Learning).
 |:--:| 
 | *RAFDB Sample* |
 |![FERPlus](https://user-images.githubusercontent.com/64302305/172004587-f89c0de5-0b63-4437-a867-abba32d7eb85.jpg)|
-|:--:| 
 | *FERPlus Sample* |
 # Experiments
 
