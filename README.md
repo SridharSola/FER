@@ -1,6 +1,6 @@
 ## FER
 This project uses deep learning to perfrom facial expression recognition. We used ResNet18 pretrained on MSCeleb-1M as our
-network. Our experiments used two benchmark datasets: RAFDB and FERPlus.\ 
+network. Our experiments used two benchmark datasets: RAFDB and FERPlus.<br/> 
 Further, a face mask was synthetically placed on images of these datasets so we could run experiments on masked images.<br/>
 The results of these experiments served as baseline results for further studies (see projects on Knowledge Distillation and 
 Contrastive Learning). 
